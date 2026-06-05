@@ -66,7 +66,7 @@ adult.data → limpeza → feature engineering → EDA
 
 ## Tecnologias
 
-Python, pandas, numpy, scikit-learn, matplotlib, seaborn, pytest
+Python, pandas, numpy, scikit-learn, matplotlib, seaborn, pytest.
 
 ## Licença
 
