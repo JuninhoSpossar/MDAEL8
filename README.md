@@ -1,5 +1,7 @@
 # Adult Income Classification
 
+> Pipeline de mineração de dados para prever renda anual > US$ 50K com o dataset UCI Adult Census Income.
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
 ![pandas](https://img.shields.io/badge/pandas-2.0+-green)
